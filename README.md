@@ -12,7 +12,7 @@ HTML, CSS
 
 Screenshot of the Google homepage clone:
 
-Screen Shot 2021-07-26 at 12.10.54 PM![Screen Shot 2021-07-26 at 12 10 54 PM](https://user-images.githubusercontent.com/84736245/127038480-271a0ed1-335e-4d2a-8fbb-6bdd39d0e0c4.png)
+![Screen Shot 2021-07-26 at 12 10 54 PM](https://user-images.githubusercontent.com/84736245/127038480-271a0ed1-335e-4d2a-8fbb-6bdd39d0e0c4.png)
 
 This first project took 4 hours to complete it was very fun and i learned a lot about CSS data types and positioning. I also got a better understanding of sizing child divs within parent div containers. I also learned about Github pages to host this project on. Very exciting!
 

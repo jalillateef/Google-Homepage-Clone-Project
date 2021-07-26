@@ -39,15 +39,23 @@ li{
 }
 
 .right-side-nav li{
-    padding: 8px;
+    padding: 6px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     text-align: center;
-    margin-right: 10px;
+    margin-right: 12px;
 }
 
 #grid{
     height: 24px;
+    color: white;
+}
+
+#grid:hover{
+        background-color: rgb(243, 243, 243);
+        border-radius: 4px;
+        padding: 4px;
+      
 }
 
 #sign-in-btn{
@@ -57,8 +65,54 @@ li{
     border-radius: 4px;
     padding: 9px 15px;
     font-size: 15px;
+    cursor: pointer;
+}
+
+#sign-in-btn:hover{
+    cursor: pointer;
+    filter: brightness(104%);
+
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+
+.main-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.main-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#googlelogo{
+    height: 200;
+    width: 400px;
     
 }
+
+.bar-section{
+    display: flex;
+    justify-content: center;
+
+}
+.bar{
+    border: 1px solid #dfe1e5;
+    height: 44px;
+    width: 482px;
+    border-radius: 20px;
+}
+
+
+
 
 
 

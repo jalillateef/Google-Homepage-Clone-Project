@@ -16,10 +16,10 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
-    padding: 6px;
+    padding: 10px 5px;
     color: black;
     align-items: center;
-    margin-top: 2px;
+    margin-top: 0px;
     margin-left: 8px;
 }
 li{
@@ -62,7 +62,7 @@ li{
     background-size: 16;
     color: white;
     border-radius: 4px;
-    padding: 9px 15px;
+    padding: 9px 23px 9px 23px;
     font-size: 15px;
     cursor: pointer;
 }
@@ -156,6 +156,49 @@ li a:hover{
 .btn2{
     padding: 14px 16px 14px 16px;
 }
+
+.btm-footer{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: #f2f2f2;;
+    line-height: 18px;
+    vertical-align: bottom;
+    color: #70757a;
+}
+
+.left-footer{
+    display: flex;
+    margin-bottom: 1px;
+    font-size: 16px;
+
+}
+
+.right-footer{
+    display: flex;
+    margin-bottom: 1px;
+    font-size: 16px;
+    padding-right: 60px;
+
+}
+
+.left-footer{
+    vertical-align: text-bottom;
+}
+
+
+.left-footer li{
+    padding: 15px;
+}
+
+.right-footer li{
+    padding: 15px;
+}
+
+
 
 
 

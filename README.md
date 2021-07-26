@@ -8,4 +8,15 @@ This project was inspired by my coding boot camp teacher Lachland Heywood. This 
 
 HTML, CSS
 
+[Live Project](https://jalillateef.github.io/Google-Homepage-Clone-Project/)
+
+Screenshot of the Google homepage clone:
+
+Screen Shot 2021-07-26 at 12.10.54 PM![Screen Shot 2021-07-26 at 12 10 54 PM](https://user-images.githubusercontent.com/84736245/127038480-271a0ed1-335e-4d2a-8fbb-6bdd39d0e0c4.png)
+
+
+
+
+
+
 
